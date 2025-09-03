@@ -6,3 +6,7 @@ Responsive web app using HTML, CSS, JavaScript, and Bootstrap 5 for intramural s
 - Dui Cao  
 - Ruike Lin  
 - Stefan Mihailescu
+
+## Website Link
+🌐 [View Website](https://ruikelin.github.io/UW-Madison-Intramural-Sports-Website-Development/)
+
